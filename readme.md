@@ -1,4 +1,7 @@
 6/8,9開催の【技育CAMP2024】ハッカソン Vol.6【オンライン開催】に参加して、初対面5人でwebアプリ開発を行いました。
+これが発表資料のURLで、デモ動画もこの中にあります。
+https://www.canva.com/design/DAGHnUZL5TM/WCqbbO53iqGT5vYV-8GJSg/edit?utm_content=DAGHnUZL5TM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 # Chef's AI
  料理に特化したSNSサイトです。<br >
  普段の料理や自慢の料理を画像で共有できます。 <br >
